@@ -1,0 +1,4 @@
+.manual-build/
+app/build/
+.DS_Store
+*.apk
